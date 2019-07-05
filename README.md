@@ -5,6 +5,25 @@
 
 <img src='img/hex_rr2020.png' align="center">
 
+## Comptes twitter
+
+Compte officiel :
+<a href='https://twitter.com/rencontres_R'>@rencontres\_R</a>
+
+### Organisateurs
+
+  - Colin Fay : <a href='https://twitter.com/_ColinFay'>@\_ColinFay</a>
+  - Julien Chiquet :
+    <a href='https://twitter.com/tchikets'>@tchikets</a>
+  - Antoine Bichat :
+    <a href='https://twitter.com/_abichat'>@\_abichat</a>
+  - Mahendra Mariadassou :
+    <a href='https://twitter.com/Mahendra_Maria'>@Mahendra\_Maria</a>
+
+### Conférenciers
+
+TBA
+
 ## Chartre graphique
 
 ### Couleurs

@@ -19,6 +19,8 @@ Compte officiel :
     <a href='https://twitter.com/_abichat'>@\_abichat</a>
   - Mahendra Mariadassou :
     <a href='https://twitter.com/Mahendra_Maria'>@Mahendra\_Maria</a>
+  - Marie-Pierre Etienne :
+    <a href='https://twitter.com/Marie_Etienne'>@Marie\_Etienne</a>
 
 ### Conférenciers
 

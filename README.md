@@ -1,18 +1,17 @@
 
 # Communication <a href='http://paris2020.rencontresr.fr'><img src='img/hex_rr2020.png' align="right" height="139" /></a>
 
-## Hexasticker
+## Affiche
 
-<img src='img/hex_rr2020.png' align="center">
+<img src='img/affiche_rr_2020.png' align="center">
 
 ## Comptes twitter
 
 Compte officiel :
 <a href='https://twitter.com/rencontres_R'>@rencontres\_R</a>
 
-### Organisateurs
+### Comité d’organisation
 
-  - Colin Fay : <a href='https://twitter.com/_ColinFay'>@\_ColinFay</a>
   - Julien Chiquet :
     <a href='https://twitter.com/tchikets'>@tchikets</a>
   - Antoine Bichat :
@@ -22,9 +21,21 @@ Compte officiel :
   - Marie-Pierre Etienne :
     <a href='https://twitter.com/Marie_Etienne'>@Marie\_Etienne</a>
 
+### Comité de programme
+
+  - Colin Fay : <a href='https://twitter.com/_ColinFay'>@\_ColinFay</a>
+
 ### Conférenciers
 
-TBA
+  - Colin Gillespie :
+    <a href='https://twitter.com/csgillespie'>@csgillespie</a>
+  - Steph Locke :
+    <a href='https://twitter.com/theStephLocke'>@theStephLocke</a>
+  - Maëlle Salmon :
+    <a href='https://twitter.com/ma_salmon'>@ma\_salmon</a>
+  - Christine Choirat :
+    <a href='https://twitter.com/cchoirat'>@cchoirat</a>
+  - TBA
 
 ## Chartre graphique
 

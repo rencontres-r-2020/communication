@@ -1,5 +1,5 @@
 
-# Communication <a href='http://paris2021.rencontresr.fr'><img src='img/hex_rr2020.png' align="right" height="139" /></a>
+# Communication <a href='http://paris2021.rencontresr.fr'><img src='img/hex_rr2021.png' align="right" height="139" /></a>
 
 ## Affiche
 

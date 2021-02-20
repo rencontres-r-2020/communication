@@ -1,5 +1,5 @@
 
-# Communication <a href='http://paris2020.rencontresr.fr'><img src='img/hex_rr2020.png' align="right" height="139" /></a>
+# Communication <a href='http://paris2021.rencontresr.fr'><img src='img/hex_rr2020.png' align="right" height="139" /></a>
 
 ## Affiche
 
@@ -23,19 +23,22 @@ Compte officiel :
 
 ### Comité de programme
 
-  - Colin Fay : <a href='https://twitter.com/_ColinFay'>@\_ColinFay</a>
+  - Colin Fay :
+<a href='https://twitter.com/_ColinFay'>@\_ColinFay</a>
 
 ### Conférenciers
 
-  - Colin Gillespie :
-    <a href='https://twitter.com/csgillespie'>@csgillespie</a>
-  - Steph Locke :
-    <a href='https://twitter.com/theStephLocke'>@theStephLocke</a>
-  - Maëlle Salmon :
-    <a href='https://twitter.com/ma_salmon'>@ma\_salmon</a>
-  - Christine Choirat :
-    <a href='https://twitter.com/cchoirat'>@cchoirat</a>
-  - TBA
+TBA
+
+<!-- * Colin Gillespie : <a href='https://twitter.com/csgillespie'>@csgillespie</a> -->
+
+<!-- * Steph Locke : <a href='https://twitter.com/theStephLocke'>@theStephLocke</a> -->
+
+<!-- * Maëlle Salmon : <a href='https://twitter.com/ma_salmon'>@ma_salmon</a> -->
+
+<!-- * Christine Choirat : <a href='https://twitter.com/cchoirat'>@cchoirat</a> -->
+
+<!-- * TBA -->
 
 ## Chartre graphique
 

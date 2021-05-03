@@ -3,7 +3,7 @@
 
 ## Affiche
 
-<img src='img/affiche_rr_2020.png' align="center">
+<img src='img/affiche_rr_2021.png' align="center">
 
 ## Comptes twitter
 

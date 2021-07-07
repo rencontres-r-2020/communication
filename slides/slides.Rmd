@@ -1,0 +1,98 @@
+---
+title: "Rencontres R"
+subtitle: "2021"
+institute: "AgroParisTech"
+date: "12-13 juillet"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["libs_rr/rr.scss", "libs_rr/rr-fonts.scss"]
+    self_contained: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:10"
+      navigation:
+        scroll: false
+---
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r icons-emojis, message=FALSE, echo=FALSE}
+# remotes::install_github("ropenscilabs/icon")
+# remotes::install_github("hadley/emo")
+```
+
+
+class: inverse, center, middle
+
+# Inverse slide
+
+Some text
+
+---
+# Hello World 
+
+You can write in *italic*, **bold**, ~~strikethrough~~, or `monospace`.
+
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+<br>
+
+--
+
+- Unorderd
+
+- list
+ 
+  - with footnote.fn[1]
+  
+  - and [link](https://github.com/yihui/xaringan)
+  
+.footnote[
+[1] First footnote
+]
+
+---
+class: noslidenumber
+# Two-column layout 
+
+.pull-left[
+* There 
+
+* is no
+
+  * slide numbering 
+  
+  * here
+]
+
+.pull-right[
+1. This
+
+2. is an
+
+3. ordered list
+]
+
+# Font size 
+
+.Large[Large]
+.large[large]
+normal
+.small[small]
+.footnotesize[footnotesize]
+.scriptsize[scriptsize]
+.tiny[tiny]
+
+---
+class: inversebis, center, middle
+background-image: url(libs_rr/sticker_rr.png)
+background-size: 15%
+background-position: right 20px bottom 20px
+
+# Inverse (bis)
+
+With sticker

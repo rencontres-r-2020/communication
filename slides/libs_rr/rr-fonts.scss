@@ -26,3 +26,8 @@ h1, h2, h3 {
 .footnotesize, .footnotesize .remark-code, .footnotesize .remark-inline-code { font-size: 80%; }
 .scriptsize  , .scriptsize .remark-code, .scriptsize .remark-inline-code { font-size: 70%; }
 .tiny        , .tiny .remark-code, .tiny .remark-inline-code { font-size: 60%; }
+
+.black {
+  color: black;
+  -webkit-text-stroke: 0px black;
+}

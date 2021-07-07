@@ -96,3 +96,5 @@ background-position: right 20px bottom 20px
 # Inverse (bis)
 
 With sticker
+
+.black[To force in black]

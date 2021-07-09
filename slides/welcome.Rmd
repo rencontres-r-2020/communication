@@ -57,7 +57,7 @@ knitr::include_graphics("../img/programme_lundi-1.png")
 ---
 class: noslidenumber
 
-```{r, echo = FALSE}
+```{r, echo = FALSE, out.width="95%"}
 knitr::include_graphics("../img/programme_mardi-1.png")
 ```
 

@@ -40,11 +40,11 @@ background-position: right 20px bottom 20px
 ### Amphithéâtre Risler
 
 - Ateliers (lundi et mardi matin) + contributions (lundi et mardi après-midi)
-- Un lien par ateliers + un lien zoom unique sur les deux jours
+- Un lien par atelier + un lien zoom unique sur les deux jours
 
 ## Comment?
 
-- présents: projection + échange orateur/trice
+- présents: projection + échanges avec l'orateur/trice
 - distants: suivi + ineraction via zoom
 
 ---
@@ -71,12 +71,12 @@ background-position: right 20px bottom 20px
 
 ## Repas & pauses
 
-- un point de distribution (salle du centenaire, face tisserand)
-- 4 espaces d'accueil pour 25 personnes maximaum
+- un point de distribution (salle du centenaire, face Tisserand)
+- 4 espaces d'accueil, capacité de 25 personnes maximum par espace
 
 ## Connexion internet
 
-wifi: eduroam ou visiteurs, code .large[`dEka26sty6f`]
+wifi: `eduroam` ou `visiteurs`, code .large[`dEka26sty6f`]
 
 ## Espaces de discussions
 
@@ -125,10 +125,10 @@ background-position: right 20px bottom 20px
 
 ## Programme
 
+- **Colin Fay (président)**
 - Marie Chavant
 - Christophe Dervieux
 - Sophie Donnet
-- **Colin Fay (président)**
 - Nathalie Vialanex
 - Romain Lesur
 ]
@@ -137,17 +137,15 @@ background-position: right 20px bottom 20px
 
 ## Organisation
 
+- **Julien Chiquet (président)**
 - Julie Aubert
 - Pierre Barbillon
 - Antoine Bichat
-- **Julien Chiquet (président)**
 - Sophie Donnet
 - Marie-Pierre Étienne
 - Mahendra Mariadassou
 - Tristan Mary-Huard
 - Laure Sansonnet
 - Jessica Tressou
-
-
 
 ]

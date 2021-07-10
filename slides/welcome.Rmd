@@ -34,18 +34,18 @@ background-position: right 20px bottom 20px
 
 ### Amphithéâtre Tisserand
 
-- Plénières, contributions, lightnings
+- 4 Plénières, 12 contributions, 10 lightnings
 - Un lien zoom unique sur les deux jours
 
 ### Amphithéâtre Risler
 
-- Ateliers (lundi et mardi matin) + contributions (lundi et mardi après-midi)
+- 2 Ateliers (lundi et mardi matin) + 12 contributions (lundi et mardi après-midi)
 - Un lien par atelier + un lien zoom unique sur les deux jours
 
-## Comment?
+### Comment?
 
-- présents: projection + échanges avec l'orateur/trice
-- distants: suivi + ineraction via zoom
+- présents (100?): projection + échanges avec l'orateur/trice
+- distants (300?): suivi + ineraction via zoom
 
 ---
 class: noslidenumber
@@ -59,6 +59,13 @@ class: noslidenumber
 
 ```{r, echo = FALSE, out.width="95%"}
 knitr::include_graphics("../img/programme_mardi-1.png")
+```
+
+---
+class: noslidenumber
+
+```{r, echo = FALSE, out.width="85%", fig.align='center'}
+knitr::include_graphics("../img/speakers.png")
 ```
 
 ---
